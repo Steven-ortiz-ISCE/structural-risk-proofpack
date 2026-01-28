@@ -1,0 +1,18 @@
+{
+  "tool": "promote_proofpack_real_runs",
+  "source_csv": "experiments/v6_7_regime/proofpack_real_runs/real_runs_scores.csv",
+  "n": 30,
+  "counts": {
+    "action": {
+      "EXECUTE": 12,
+      "BLOCK": 12,
+      "HOLD": 6
+    },
+    "regime": {
+      "T5": 10,
+      "T3": 9,
+      "T2": 7,
+      "T1": 4
+    }
+  }
+}
